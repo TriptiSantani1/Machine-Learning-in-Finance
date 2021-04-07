@@ -5,7 +5,7 @@ i.	FB
 
 ii.	FANG
 
-iii.	Farm-French
+iii.	Fama-French
 
 iv.	ADS
 
